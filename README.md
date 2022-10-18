@@ -1,2 +1,2 @@
 # Datacamp_projects
-Some projects from Datacamp (mostly Jupyter Notebooks)
+Some projects from Datacamp (mostly Jupyter Notebooks).
