@@ -15,7 +15,7 @@ The projects in this portfolio cover a variety of topics, including:
 To view the projects, simply click on the project titles below. You can also download the project files to run them locally on your machine.
 
 ## Projects
-[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/mbergr/Datacamp_projects/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
+[Dr. Semmelweis and the Discovery of Handwashing](https://github.com/mbergr/Datacamp_projects/blob/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) - In this project, I analyzed historical data to understand the impact of handwashing on death rates in hospitals.
 
 [Exploring the Evolution of Linux](https://github.com/mbergr/Datacamp_projects/blob/main/Exploring%20the%20Evolution%20of%20Linux/notebook.ipynb) - In this project, I used version control data to trace the development of the Linux operating system.
 
