@@ -1,7 +1,7 @@
 # Portfolio of Data Analysis Projects
 Welcome to my portfolio of data analysis projects!
 
-In this repository, you will find a selection of projects that demonstrate my skills in data manipulation, visualization, and analysis.
+In this repository, you will find a selection of projects that demonstrate my skills in manipulation, visualization, and analysis of data.
 
 ## Project Overview
 The projects in this portfolio cover a variety of topics, including:
